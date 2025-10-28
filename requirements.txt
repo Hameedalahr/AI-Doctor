@@ -1,4 +1,9 @@
 numpy
 pandas
 scikit-learn
+<<<<<<< HEAD
 flask
+=======
+gunicorn
+flask
+>>>>>>> c7b35d32ef37b7586011bd04fa3f7c04d8a073ce
